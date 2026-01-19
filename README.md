@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image_profile.png" alt="Immagine profilo" width="600">
+  <img src="image_profile.png" alt="Immagine profilo">
 </p>
 
 <hr>
