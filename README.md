@@ -1,8 +1,4 @@
-<p align="center">
-<img src="profile_image.jpg" alt="Banner of a developer sitting in front of a desk" width="600" height="600">
-</p>
 
-<br>
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
 - 💬 Ask me about **Kotlin, Flutter, ReactNative...or anything [here](https://github.com/{LucreziaC}/{LucreziaC}/issues)**
@@ -19,6 +15,17 @@
 </div>
 <hr>
 
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{LucreziaC}/{LucreziaC}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{LucreziaC}/{LucreziaC}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{LucreziaC}/{LucreziaC}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
 
 ## 🛠️ Languages and Tools
 
@@ -31,17 +38,7 @@
 
 <hr>
 
-## 🐍 My Contributions
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{LucreziaC}/{LucreziaC}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{LucreziaC}/{LucreziaC}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{LucreziaC}/{LucreziaC}/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<hr>
 ##⚡️ Stats
 
 <br>
