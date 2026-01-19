@@ -4,8 +4,8 @@
 
 <hr>
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Kotlin, Flutter, ReactNative...or anything [here](https://github.com/{LucreziaC}/{LucreziaC}/issues)**
+- 🌱 I’m currently learning **[Python](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.udemy.com/course/the-python-mega-course/%3Fsrsltid%3DAfmBOoomQzZ9W548xVNVqvKJsYlemV3hu7HYauKDquX_3QDEeYCfJj8z)**
+- 💬 Ask me about **Kotlin, Flutter, ReactNative...or anything [here](https://github.com/LucreziaC/LucreziaC/issues)**
 
 <br>
 
