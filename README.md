@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="image_profile.png" alt="Immagine profilo" width="600">
+</p>
 
+<hr>
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
 - 💬 Ask me about **Kotlin, Flutter, ReactNative...or anything [here](https://github.com/{LucreziaC}/{LucreziaC}/issues)**
